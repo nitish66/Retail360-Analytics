@@ -1,0 +1,26 @@
+# Power BI temporary files
+*.pbix.autosave
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Python (for future data generation scripts)
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Azure CLI cache
+.azure/
+
+# OS files
+.DS_Store
