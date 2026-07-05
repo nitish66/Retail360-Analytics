@@ -1,0 +1,23 @@
+{
+  "environment": "development",
+  "country": "India",
+  "start_date": "2021-01-01",
+  "end_date": "2030-12-31",
+
+  "dimensions": {
+    "customers": 5000,
+    "products": 1000,
+    "stores": 25,
+    "employees": 250,
+    "suppliers": 100,
+    "promotions": 100
+  },
+
+  "facts": {
+    "sales": 100000,
+    "inventory": 50000,
+    "returns": 5000,
+    "budget": 2500,
+    "marketing": 1000
+  }
+}
